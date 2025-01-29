@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Terra Manning! 
 
-<!--
-**TDManning/TDManning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Aspiring Full Stack Software Engineer | 🚀 Passionate About Problem-Solving | 💡 Always Learning  
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🎶 Working on a **Music Festival Scheduler** (Rails API + React)
+- 🔍 Exploring **Next.js & TailwindCSS**
+- 💬 Ask me about **Rails APIs, JavaScript, and TDD**
+- ⚡ Fun fact: I once kept a journal of all my questions as a child 📖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 📫 Connect with Me
+- **LinkedIn**: [linkedin.com/in/TerraManning](https://linkedin.com/in/TerraManning)
+- **Portfolio**: [Coming Soon! 🚀]
+
+## ✨ Latest Projects
+- [🎵 Music Festival Scheduler](https://github.com/TerraManning/music-festival-scheduler)
+- [🎨 Motivational Posters App](https://github.com/TerraManning/motivational-posters)
