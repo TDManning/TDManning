@@ -17,7 +17,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/TerraManning](https://linkedin.com/in/TDManning)
+- **LinkedIn**: [linkedin.com/in/TerraManning](https://linkedin.com/in/terra-manning/)
 - **Portfolio**: [Coming Soon! 🚀]
 
 ## ✨ Latest Projects
