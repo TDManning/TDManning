@@ -21,9 +21,15 @@
 
 ## ✨ Latest Projects
 
-- **[🍅 Rancid Tomatillos - GitHub](https://github.com/TDManning/rancid-tomatillos)**  
-  🎬 View the deployed project here: [Rancid Tomatillos](https://rancid-tomatillos-a8epnhzkd-tdmannings-projects.vercel.app/)
+### 🍅 Rancid Tomatillos
+- **GitHub Repo:** [Rancid Tomatillos](https://github.com/TDManning/rancid-tomatillos)  
+- **Deployed Site:** [Rancid Tomatillos](https://rancid-tomatillos-a8epnhzkd-tdmannings-projects.vercel.app/)
 
-- **[🎨 Motivational Posters App - GitHub](https://github.com/TerraManning/motivational-posters)**  
-  🖼️ View the deployed project here: [Hang in There Posters](https://hanginthereposters.netlify.app/)
+### 🎨 Motivational Posters App
+- **GitHub Repo:** [Motivational Posters](https://github.com/TerraManning/motivational-posters)  
+- **Deployed Site:** [Hang in There Posters](https://hanginthereposters.netlify.app/)
 
+### 🎭 Mood Boost
+- **Frontend Repo:** [Mood Boost FE](https://github.com/TDManning/mood_boost_fe)  
+- **Backend Repo:** [Mood Boost BE](https://github.com/TDManning/mood_boost_be)  
+- **Deployed Site:** [Mood Boost](http://mood-boost-fe.onrender.com/)
