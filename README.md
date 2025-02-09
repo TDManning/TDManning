@@ -20,8 +20,10 @@
 - **Portfolio**: [Coming Soon! 🚀]
 
 ## ✨ Latest Projects
-- [🍅 Rancid Tomatillos](https://github.com/TDManning/rancid-tomatillos)
-[Rancid Tomatillos](https://rancid-tomatillos-a8epnhzkd-tdmannings-projects.vercel.app/)
 
-- [🎨 Motivational Posters App](https://github.com/TerraManning/motivational-posters)
-You can view the deployed project here: [Hang in There Posters](https://hanginthereposters.netlify.app/)
+- **[🍅 Rancid Tomatillos - GitHub](https://github.com/TDManning/rancid-tomatillos)**  
+  🎬 View the deployed project here: [Rancid Tomatillos](https://rancid-tomatillos-a8epnhzkd-tdmannings-projects.vercel.app/)
+
+- **[🎨 Motivational Posters App - GitHub](https://github.com/TerraManning/motivational-posters)**  
+  🖼️ View the deployed project here: [Hang in There Posters](https://hanginthereposters.netlify.app/)
+
