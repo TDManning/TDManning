@@ -6,7 +6,6 @@
 - 🎶 Working on a **Music Festival Scheduler** (Rails API + React)
 - 🔍 Exploring **Next.js & TailwindCSS**
 - 💬 Ask me about **Rails APIs, JavaScript, and TDD**
-- ⚡ Fun fact:  📖
 
 ## 🔧 Technologies & Tools
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
@@ -21,5 +20,5 @@
 - **Portfolio**: [Coming Soon! 🚀]
 
 ## ✨ Latest Projects
-- [🎵 Music Festival Scheduler](https://github.com/TerraManning/music-festival-scheduler)
+
 - [🎨 Motivational Posters App](https://github.com/TerraManning/motivational-posters)
