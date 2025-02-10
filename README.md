@@ -11,7 +11,26 @@
 - 🎻 Jamming on my **cello** 
 - 🏃‍♀️ Running **Spartan & Tough Mudder races** 
 - 👩‍👧‍👦 **Keeping up with my three awesome kids**  
-- 🍕 Trying to make **the perfect homemade pizza** (still in beta testing 😆)  
+- 🍕 Trying to make **the perfect homemade pizza** (still in beta testing 😆)
+
+## 📫 Connect with Me
+- **LinkedIn**: [linkedin.com/in/TerraManning](https://linkedin.com/in/terra-manning/)
+- **Portfolio**: [Coming Soon! 🚀]
+
+## ✨ Latest Projects
+
+### 🎭 Mood Boost
+- **Frontend Repo:** [Mood Boost FE](https://github.com/TDManning/mood_boost_fe)  
+- **Backend Repo:** [Mood Boost BE](https://github.com/TDManning/mood_boost_be)  
+- **Deployed Site:** [Mood Boost](https://mood-boost-fe.vercel.app/)
+
+### 🍅 Rancid Tomatillos
+- **GitHub Repo:** [Rancid Tomatillos](https://github.com/TDManning/rancid-tomatillos)  
+- **Deployed Site:** [Rancid Tomatillos](https://rancid-tomatillos-a8epnhzkd-tdmannings-projects.vercel.app/)
+
+### 🎨 Motivational Posters App
+- **GitHub Repo:** [Motivational Posters](https://github.com/TerraManning/motivational-posters)  
+- **Deployed Site:** [Hang in There Posters](https://hanginthereposters.netlify.app/)
 
 ## 🔧 Technologies & Tools  
 
@@ -36,27 +55,7 @@
 - ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 - ![Agile Workflow](https://img.shields.io/badge/-Agile_Workflow-0052CC?style=flat)
 - ![Adobe InDesign](https://img.shields.io/badge/-Adobe_InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)
-
-## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/TerraManning](https://linkedin.com/in/terra-manning/)
-- **Portfolio**: [Coming Soon! 🚀]
-
-## ✨ Latest Projects
-
-### 🎭 Mood Boost
-- **Frontend Repo:** [Mood Boost FE](https://github.com/TDManning/mood_boost_fe)  
-- **Backend Repo:** [Mood Boost BE](https://github.com/TDManning/mood_boost_be)  
-- **Deployed Site:** [Mood Boost](https://mood-boost-fe.vercel.app/)
-
-### 🍅 Rancid Tomatillos
-- **GitHub Repo:** [Rancid Tomatillos](https://github.com/TDManning/rancid-tomatillos)  
-- **Deployed Site:** [Rancid Tomatillos](https://rancid-tomatillos-a8epnhzkd-tdmannings-projects.vercel.app/)
-
-### 🎨 Motivational Posters App
-- **GitHub Repo:** [Motivational Posters](https://github.com/TerraManning/motivational-posters)  
-- **Deployed Site:** [Hang in There Posters](https://hanginthereposters.netlify.app/)
   
-
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TDManning&label=PROFILE+VIEWS&style=flat-square&color=orange)
