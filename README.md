@@ -3,7 +3,7 @@
 🌟 Terra Manning |👩‍💻 Aspiring Full Stack Software Engineer | 🚀 Passionate About Problem-Solving | 💡 Always Learning  
 
 ## 🌱 About Me
-- 🎶 Working on a **Job Tracker** for my Capstone Project (Rails API + React)
+- Working on a **Job Tracker** for my Capstone Project (Rails API + React)
 - 🔍 Exploring **Next.js, TailwindCSS & TypeScript**
 - 💬 Ask me about **Rails APIs, JavaScript, and TDD**
 
@@ -12,10 +12,6 @@
 - 🏃‍♀️ Running **Spartan & Tough Mudder races** 
 - 👩‍👧‍👦 **Keeping up with my three awesome kids**  
 - 🍕 Trying to make **the perfect homemade pizza** (still in beta testing 😆)  
-
-## 🔧 Technologies & Tools  
-
-## 🔧 Technologies & Tools  
 
 ## 🔧 Technologies & Tools  
 
