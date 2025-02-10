@@ -3,7 +3,7 @@
 🌟 Terra Manning |👩‍💻 Aspiring Full Stack Software Engineer | 🚀 Passionate About Problem-Solving | 💡 Always Learning  
 
 ## 🌱 About Me
-- 🎶 Working on a **Music Festival Scheduler** (Rails API + React)
+- 🎶 Working on a **Job Tracker** for my Capstone Project (Rails API + React)
 - 🔍 Exploring **Next.js, TailwindCSS & TypeScript**
 - 💬 Ask me about **Rails APIs, JavaScript, and TDD**
 
